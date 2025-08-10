@@ -1,0 +1,116 @@
+[
+    {
+        "player": "Patrick Mahomes",
+        "team": "Kansas City Chiefs",
+        "years": "10",
+        "salary": "45 million"
+    },
+    {
+        "player": "Joe Burrow",
+        "team": "Cincinnati Bengals",
+        "years": "5",
+        "salary": "55 million"
+    },
+    {
+        "player": "Jalen Hurts",
+        "team": "Philadelphia Eagles",
+        "years": "5",
+        "salary": "51 million"
+    },
+    {
+        "player": "Josh Allen",
+        "team": "Buffalo Bills",
+        "years": "6",
+        "salary": "43 million"
+    },
+    {
+        "player": "Justin Herbert",
+        "team": "LA Chargers",
+        "years": "5",
+        "salary": "52.5 million"
+    },
+    {
+        "player": "Lamar Jackson",
+        "team": "Baltimore Ravens",
+        "years": "5",
+        "salary": "52 million"
+    },
+    {
+        "player": "Dak Prescott",
+        "team": "Dallas Cowboys",
+        "years": "4",
+        "salary": "60 million"
+    },
+    {
+        "player": "Trevor Lawrence",
+        "team": "Jacksonville Jaguars",
+        "years": "5",
+        "salary": "55 million"
+    },
+    {
+        "player": "Kirk Cousins",
+        "team": "Atlanta Falcons",
+        "years": "4",
+        "salary": "45 million"
+    },
+    {
+        "player": "Deshaun Watson",
+        "team": "Cleveland Browns",
+        "years": "5",
+        "salary": "46 million"
+    },
+    {
+        "player": "Tyreek Hill",
+        "team": "Miami Dolphins",
+        "years": "4",
+        "salary": "30 million"
+    },
+    {
+        "player": "Cooper Kupp",
+        "team": "LA Rams",
+        "years": "3",
+        "salary": "26 million"
+    },
+    {
+        "player": "Justin Jefferson",
+        "team": "Minnesota Vikings",
+        "years": "4",
+        "salary": "35 million"
+    },
+    {
+        "player": "Nick Bosa",
+        "team": "San Francisco 49ers",
+        "years": "5",
+        "salary": "34 million"
+    },
+    {
+        "player": "Micah Parsons",
+        "team": "Dallas Cowboys",
+        "years": "4",
+        "salary": "32 million"
+    },
+    {
+        "player": "T.J. Watt",
+        "team": "Pittsburgh Steelers",
+        "years": "4",
+        "salary": "28 million"
+    },
+    {
+        "player": "Myles Garrett",
+        "team": "Cleveland Browns",
+        "years": "5",
+        "salary": "30 million"
+    },
+    {
+        "player": "Chris Jones",
+        "team": "Kansas City Chiefs",
+        "years": "4",
+        "salary": "30 million"
+    },
+    {
+        "player": "Shedeur Sanders",
+        "team": "Cleveland Browns",
+        "years": "5",
+        "salary": "3 million"
+    }
+]
