@@ -40,15 +40,21 @@ def add_contract(contracts):
     save_contracts(contracts)
     print(f"\nContract for {player} added successfully.")
 
+def filter_by_name(contracts, needle: str):
+    return [c for c in contracts if needle.lower() in c["player"].lower()]
+
+def filter_by_salary(contracts, threshold: float):
+    return [c for c in contracts if float(c["salary"]) > float(threshold)]
+
 # Search/filter contracts
 def search_contracts(contracts):
     choice = input("\nSearch by (1) Player name or (2) Salary above: ")
     if choice == "1":
         name = input("Enter player name to search: ").lower()
-        results = [c for c in contracts if name in c["player"].lower()]
+        results = filter_by_name(contracts, name)
     elif choice == "2":
         threshold = float(input("Enter salary threshold (in millions): "))
-        results = [c for c in contracts if c["salary"] > threshold]
+        results = filter_by_salary(contracts, threshold)
     else:
         print("Invalid choice.")
         return
